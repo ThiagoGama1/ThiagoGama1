@@ -1,27 +1,27 @@
-# Olá, sou Thiago! 👋
+# Thiago Gama
 
-Estudante de Ciência da Computação no 5º período, com foco em desenvolvimento backend e sistemas.
+Estou no 5º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam — APIs, automações, ferramentas.
 
-Gosto de construir coisas que funcionam de verdade — APIs, estruturas de dados, automações. Ainda estou explorando qual área me encaixa melhor, mas o que me motiva é código que resolve problemas concretos.
-
----
-
-## 🛠️ Tecnologias que uso
-
-- **Linguagens:** Go, C, Python, JavaScript
-- **Backend:** APIs REST, Docker, PostgreSQL
-- **Outros:** Git, Linux
+Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no estágio. No banco de dados, tenho mais prática com PostgreSQL e SQLite.
 
 ---
 
-## 📌 Projetos em destaque
+## O que já usei
 
-- **[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)** — Aplicação fullstack com Go + PostgreSQL + Docker. API REST com Gin, frontend em JS puro.
-- **[B_tree2](https://github.com/ThiagoGama1/B_tree2)** / **[b_tree](https://github.com/ThiagoGama1/b_tree)** — Implementação de árvore B em C, desenvolvida para a faculdade.
-- **[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)** — Estruturas de dados implementadas em C.
+- **Linguagens:** C, Go, Python, Java, JavaScript
+- **Banco de dados:** PostgreSQL, SQLite, SQL em geral
+- **Outros:** Docker, Git, Linux
 
 ---
 
-## 📫 Contato
+## Projetos
 
-- GitHub: [@ThiagoGama1](https://github.com/ThiagoGama1)
+- **[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)** — API REST feita em Go com PostgreSQL e Docker, com um frontend simples em JS puro
+- **[B_tree2](https://github.com/ThiagoGama1/B_tree2)** / **[b_tree](https://github.com/ThiagoGama1/b_tree)** — implementação de árvore B em C, feita pra faculdade
+- **[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)** — estruturas de dados em C
+
+---
+
+## Contato
+
+tgsmoreira@gmail.com
