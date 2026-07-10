@@ -1,6 +1,6 @@
 # Thiago Gama
 
-Estou no 5º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam — APIs, automações, ferramentas.
+Estou no 6º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam — APIs, automações, ferramentas.
 
 Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no estágio. No banco de dados, tenho mais prática com PostgreSQL e SQLite.
 
