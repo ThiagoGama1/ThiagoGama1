@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Thiago%20Gama&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%C2%B7%20Go%20%C2%B7%20C%20%C2%B7%20Python%20%C2%B7%20SQL&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Thiago%20Gama&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20de%20sistemas%20%C2%B7%20Go%20%C2%B7%20C%20%C2%B7%20Python%20%C2%B7%20SQL&descSize=18&descAlignY=58" width="100%" />
 
-<a href="https://thiagogama1.github.io"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend+e+automa%C3%A7%C3%B5es;APIs+em+Go+com+PostgreSQL;Estruturas+de+dados+em+C;Construindo+coisas+que+funcionam" alt="Typing SVG" /></a>
+<a href="https://thiagogama1.github.io"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Desenvolvedor+de+sistemas;Do+banco+de+dados+at%C3%A9+a+interface;Go%2C+C%2C+Python+e+SQL;Gosto+de+ver+a+coisa+rodando" alt="Typing SVG" /></a>
 
 </div>
 
-Estou no 6º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam: APIs, automações, ferramentas.
+Estou no 6º período de Ciência da Computação e trabalho com desenvolvimento de sistemas, do banco de dados até a interface. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam: APIs, automações, ferramentas.
 
 Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no estágio. No banco de dados, tenho mais prática com PostgreSQL e SQLite.
 
