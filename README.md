@@ -1,4 +1,10 @@
-# Thiago Gama
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Thiago%20Gama&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%C2%B7%20Go%20%C2%B7%20C%20%C2%B7%20Python%20%C2%B7%20SQL&descSize=18&descAlignY=58" width="100%" />
+
+<a href="https://thiagogama1.github.io"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend+e+automa%C3%A7%C3%B5es;APIs+em+Go+com+PostgreSQL;Estruturas+de+dados+em+C;Construindo+coisas+que+funcionam" alt="Typing SVG" /></a>
+
+</div>
 
 Estou no 6º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam: APIs, automações, ferramentas.
 
@@ -19,6 +25,13 @@ Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no est�
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ThiagoGama1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoGama1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="linguagens" />
+
+</div>
+
 ---
 
 ## Projetos
@@ -37,6 +50,22 @@ Também mantenho o **[arvore_rubro_negra](https://github.com/ThiagoGama1/arvore_
 
 ---
 
+## Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoGama1&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits%20dos%20ultimos%2031%20dias" width="95%" alt="grafico de atividade" />
+
+</div>
+
+---
+
 ## Contato
 
 tgsmoreira@gmail.com
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" />
+
+</div>
