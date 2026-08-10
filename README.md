@@ -1,6 +1,6 @@
 # Thiago Gama
 
-Estou no 6º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam — APIs, automações, ferramentas.
+Estou no 6º período de Ciência da Computação e tenho trabalhado principalmente com backend. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam: APIs, automações, ferramentas.
 
 Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no estágio. No banco de dados, tenho mais prática com PostgreSQL e SQLite.
 
@@ -23,9 +23,17 @@ Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no est�
 
 ## Projetos
 
-- **[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)** — API REST feita em Go com PostgreSQL e Docker, com um frontend simples em JS puro
-- **[B_tree2](https://github.com/ThiagoGama1/B_tree2)** / **[b_tree](https://github.com/ThiagoGama1/b_tree)** — implementação de árvore B em C, feita pra faculdade
-- **[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)** — estruturas de dados em C
+**[Task_Flow](https://github.com/ThiagoGama1/Task_Flow)** gerenciador de projetos colaborativos, com quadro Kanban, tarefas com prioridade e prazo e um dashboard do que caiu pra você. Feito em Go com Gin, GORM e PostgreSQL, sobe inteiro com Docker Compose e tem seed de dados pra testar. Nasceu de um trabalho da faculdade, então não tem versão hospedada: roda local.
+
+**[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)** API REST em Go com PostgreSQL e Docker, com um frontend simples em JS puro.
+
+**[Portfólio](https://github.com/ThiagoGama1/ThiagoGama1.github.io)** meu site pessoal em HTML, CSS e JavaScript puro, bilíngue e com tema claro e escuro. Esse sim está no ar: https://thiagogama1.github.io
+
+**[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)** árvore binária de busca e lista encadeada em C, com gerenciamento manual de memória.
+
+**[B_tree2](https://github.com/ThiagoGama1/B_tree2)** e **[b_tree](https://github.com/ThiagoGama1/b_tree)** implementação de árvore B em C, feita pra faculdade.
+
+Também mantenho o **[arvore_rubro_negra](https://github.com/ThiagoGama1/arvore_rubro_negra)** e o **[exercicios_de_logica_codeforces](https://github.com/ThiagoGama1/exercicios_de_logica_codeforces)**, que uso pra praticar C e lógica.
 
 ---
 
