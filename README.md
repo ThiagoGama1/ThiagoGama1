@@ -6,7 +6,7 @@
 
 </div>
 
-Estou no 6º período de Ciência da Computação e trabalho com desenvolvimento de sistemas, do banco de dados até a interface. Ainda estou descobrindo qual área mais me encaixa, mas gosto de construir coisas que de fato funcionam: APIs, automações, ferramentas.
+Estou no 6º período de Ciência da Computação na UVV e sou estagiário de Desenvolvimento de Sistemas na Rede Tribuna. Desenvolvo backend em Go, do banco de dados à interface, e integro IA generativa em sistemas usados no dia a dia da empresa.
 
 Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no estágio. No banco de dados, tenho mais prática com PostgreSQL e SQLite.
 
@@ -36,17 +36,12 @@ Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no est�
 
 ## Projetos
 
-**[Task_Flow](https://github.com/ThiagoGama1/Task_Flow)** gerenciador de projetos colaborativos, com quadro Kanban, tarefas com prioridade e prazo e um dashboard do que caiu pra você. Feito em Go com Gin, GORM e PostgreSQL, sobe inteiro com Docker Compose e tem seed de dados pra testar. Nasceu de um trabalho da faculdade, então não tem versão hospedada: roda local.
-
-**[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)** API REST em Go com PostgreSQL e Docker, com um frontend simples em JS puro.
-
-**[Portfólio](https://github.com/ThiagoGama1/ThiagoGama1.github.io)** meu site pessoal em HTML, CSS e JavaScript puro, bilíngue e com tema claro e escuro. Esse sim está no ar: https://thiagogama1.github.io
-
-**[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)** árvore binária de busca e lista encadeada em C, com gerenciamento manual de memória.
-
-**[B_tree2](https://github.com/ThiagoGama1/B_tree2)** e **[b_tree](https://github.com/ThiagoGama1/b_tree)** implementação de árvore B em C, feita pra faculdade.
-
-Também mantenho o **[arvore_rubro_negra](https://github.com/ThiagoGama1/arvore_rubro_negra)** e o **[exercicios_de_logica_codeforces](https://github.com/ThiagoGama1/exercicios_de_logica_codeforces)**, que uso pra praticar C e lógica.
+- **[notas-fiscais-microsservicos](https://github.com/ThiagoGama1/notas-fiscais-microsservicos)**: sistema de notas fiscais em dois microsserviços Go (estoque e faturamento), cada um com seu banco PostgreSQL, circuit breaker na comunicação entre eles, testes de integração e frontend em Angular. Sobe inteiro com Docker Compose.
+- **[Task_Flow](https://github.com/ThiagoGama1/Task_Flow)**: gerenciador de projetos colaborativos, com quadro Kanban, tarefas com prioridade e prazo e um dashboard do que caiu pra você. Feito em Go com Gin, GORM e PostgreSQL, sobe inteiro com Docker Compose e tem seed de dados pra testar. Nasceu de um trabalho da faculdade, então não tem versão hospedada: roda local.
+- **[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)**: API REST em Go com PostgreSQL e Docker, com um frontend simples em JS puro.
+- **[Portfólio](https://github.com/ThiagoGama1/ThiagoGama1.github.io)**: meu site pessoal em HTML, CSS e JavaScript puro, bilíngue e com tema claro e escuro. Está no ar em https://thiagogama1.github.io
+- **[exercicios_de_logica_codeforces](https://github.com/ThiagoGama1/exercicios_de_logica_codeforces)**: problemas do Codeforces em C e Go, que uso para treinar lógica.
+- **[Data_Structure](https://github.com/ThiagoGama1/Data_Structure)**, **[B_tree2](https://github.com/ThiagoGama1/B_tree2)** e **[arvore_rubro_negra](https://github.com/ThiagoGama1/arvore_rubro_negra)**: estruturas de dados em C feitas para a faculdade, com gerenciamento manual de memória.
 
 ---
 
