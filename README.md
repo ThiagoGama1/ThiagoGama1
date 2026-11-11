@@ -36,7 +36,6 @@ Já mexi com C, Go, Python, Java e JavaScript em projetos de faculdade e no est�
 
 ## Projetos
 
-- **[notas-fiscais-microsservicos](https://github.com/ThiagoGama1/notas-fiscais-microsservicos)**: sistema de notas fiscais em dois microsserviços Go (estoque e faturamento), cada um com seu banco PostgreSQL, circuit breaker na comunicação entre eles, testes de integração e frontend em Angular. Sobe inteiro com Docker Compose.
 - **[Task_Flow](https://github.com/ThiagoGama1/Task_Flow)**: gerenciador de projetos colaborativos, com quadro Kanban, tarefas com prioridade e prazo e um dashboard do que caiu pra você. Feito em Go com Gin, GORM e PostgreSQL, sobe inteiro com Docker Compose e tem seed de dados pra testar. Nasceu de um trabalho da faculdade, então não tem versão hospedada: roda local.
 - **[listaTarefas](https://github.com/ThiagoGama1/listaTarefas)**: API REST em Go com PostgreSQL e Docker, com um frontend simples em JS puro.
 - **[Portfólio](https://github.com/ThiagoGama1/ThiagoGama1.github.io)**: meu site pessoal em HTML, CSS e JavaScript puro, bilíngue e com tema claro e escuro. Está no ar em https://thiagogama1.github.io
